@@ -2,7 +2,9 @@
 Gets a  dataframe with several of numeric columns and creates plot that compares the smooth density curves of every selected column.
 
 ## introduction
-The short and simple code allows a comparison between the smooth density of a large number of columns. Each density is displayed in a different color and conveniently. The code is very simple to run and all you have to do is import it (instructions below).
+The short and simple code allows a comparison between the smooth density of a large number of columns. Each density is displayed in a different color and conveniently. The code is very simple to run and all you have to do is import it (instructions below). example of one output:
+
+![example](https://github.com/EtzionData/create-multi-smooth-density-plot/blob/master/density_1.png)
 
 ## libraries
 The code uses the following libraries in Python:
