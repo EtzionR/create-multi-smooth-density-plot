@@ -18,7 +18,7 @@ The code uses the following libraries in Python:
 ## application
 An application of the code is attached to this page under the name: 
 
-[**"implementation.py"**](https://github.com/EtzionData/create-multi-smooth-density-plot/blob/master/implementation.ipynb)
+[**"implementation.ipynb"**](https://github.com/EtzionData/create-multi-smooth-density-plot/blob/master/implementation.ipynb)
 the examples outputs are also attached here.
 
 ## Using the code
