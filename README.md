@@ -46,4 +46,6 @@ When the variables displayed are:
 
 **name:** string which represents the filename of the GIF you want to save
 
+## License
+MIT © [Etzion Harari](https://github.com/EtzionData)
 
