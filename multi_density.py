@@ -1,3 +1,7 @@
+# Create by Etzion Harari
+# https://github.com/EtzionR
+
+# Load libraries:
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -22,3 +26,5 @@ def create_multi_density(data,fields,name):
     plt.legend(loc='upper left')
     plt.savefig(name+'.png')
     plt.show()
+ 
+# MIT © Etzion Harari
