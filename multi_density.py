@@ -27,4 +27,5 @@ def create_multi_density(data,fields,name):
     plt.savefig(name+'.png')
     plt.show()
  
+# License
 # MIT © Etzion Harari
